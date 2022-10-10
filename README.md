@@ -14,7 +14,6 @@
 
 ## Calculus (math 1)
 1. [Calculus 2021 - حساب التفاضل والتكامل](https://www.youtube.com/playlist?list=PLxIvc-MGOs6hMiR2Xis-mJ1sXNwWsZ1Bh)
-2. the book
+2. 
 
 ## Physics 
-1. [Calculus 2021 - حساب التفاضل والتكامل](https://www.youtube.com/playlist?list=PLxIvc-MGOs6hMiR2Xis-mJ1sXNwWsZ1Bh)
