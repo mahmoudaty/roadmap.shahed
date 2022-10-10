@@ -3,7 +3,7 @@
 * [english conversation](https://www.youtube.com/playlist?list=PL27A5D7DE7D02373A)
 * [engvid is treasure](https://www.youtube.com/c/engVid/playlists)
 
-## Discret Math 
+## Discrete Math 
 1. [Discrete Mathematics - الرياضيات المتقطعة](https://www.youtube.com/playlist?list=PLxIvc-MGOs6gZlMVYOOEtUHJmfUquCjwz)
 1. [MA112: Discrete Mathematics I: logic, basics, and foundations](https://www.youtube.com/playlist?list=PLoK2Lr1miEm_WKBBBHUQJRXaumduqkM4S)
 1. [Discrete Maths Course | الرياضيات المنفصلة](https://www.youtube.com/playlist?list=PLZyQU-WOzZF1rmALoJZthmDKPsqxCV4mW)
